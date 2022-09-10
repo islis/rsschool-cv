@@ -1,1 +1,1 @@
-https://islis.github.io/rsschool-cv/cv
+https://islis.github.io/rsschool-cv/
